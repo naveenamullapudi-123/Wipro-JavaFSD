@@ -1,0 +1,3 @@
+Roses are red.
+Rabbits run rapidly.
+Programming in Java is really interesting.
