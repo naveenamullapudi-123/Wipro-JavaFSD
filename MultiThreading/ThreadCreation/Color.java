@@ -29,5 +29,6 @@ public class Color {
         Thread t = new Thread(ct);
 
         t.start();
+    
     }
 }
